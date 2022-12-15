@@ -1,0 +1,1 @@
+UPDATE `users` SET `name` = 'notGor', mail = 'notgor@mail.ru' WHERE name = 'gor' AND id > 2

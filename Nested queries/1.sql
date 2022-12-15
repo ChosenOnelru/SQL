@@ -1,0 +1,1 @@
+SELECT * FROM sale WHERE amount > 5000 AND sale_id IN (SELECT sale_id FROM order_status WHERE status_name_id=3) LIMIT 10

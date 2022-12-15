@@ -1,0 +1,1 @@
+SELECT * FROM users JOIN sale ON sale.user_id=users.user_id GROUP BY users.user_id HAVING COUNT(users.user_id) = 1

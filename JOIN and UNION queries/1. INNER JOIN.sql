@@ -1,0 +1,1 @@
+SELECT product.name, sale.amount from product INNER JOIN sale ON sale.product_id=product.product_id WHERE sale.amount > 5000 AND sale.sale_id IN (SELECT order_status.sale_id FROM order_status WHERE status_name_id=3) LIMIT 10

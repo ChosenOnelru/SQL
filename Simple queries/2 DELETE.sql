@@ -1,0 +1,1 @@
+DELETE from test WHERE id = 2

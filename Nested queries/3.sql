@@ -1,0 +1,1 @@
+SELECT name FROM store WHERE store_id IN (SELECT store_id FROM sale WHERE date_sale >= '2019-01-01' AND date_sale <= '2019-03-31')
