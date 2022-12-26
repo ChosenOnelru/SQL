@@ -15,4 +15,4 @@ JOIN and UNION queries:
 1. [JOIN](https://github.com/ChosenOnelru/SQL/blob/2da38e24a3c9eef20a38845fe29834eebf8cc852/JOIN%20and%20UNION%20queries/1.%20INNER%20JOIN.sql)
 2. [LEFT JOIN](https://github.com/ChosenOnelru/SQL/blob/2da38e24a3c9eef20a38845fe29834eebf8cc852/JOIN%20and%20UNION%20queries/2.%20LEFT%20JOIN.sql)
 3. [UNION](https://github.com/ChosenOnelru/SQL/blob/2da38e24a3c9eef20a38845fe29834eebf8cc852/JOIN%20and%20UNION%20queries/3.%20UNION.sql)
-4. [INTERSECT/EXCEPT](https://github.com/ChosenOnelru/SQL/blob/2da38e24a3c9eef20a38845fe29834eebf8cc852/JOIN%20and%20UNION%20queries/4.%20INTERSECT.sql)
+4. [INTERSECT/EXCEPT](https://github.com/ChosenOnelru/SQL/blob/main/JOIN%20and%20UNION%20queries/4.%20INTERSECT.sql)
